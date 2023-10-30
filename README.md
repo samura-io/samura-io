@@ -1,9 +1,11 @@
-### Hi there 👋
-
 ### :star: About me :
   Никита, 25лет, г. Тамбов.
   
-
+### :email: Contacts :
+email:
+[NTL5TIA@gmail.com](NTL5TIA@gmail.com) <br>
+telegram:
+[@AleksankinN](https://t.me/AleksankinN)
 
 ### :space_invader: Languages and Tools :
 <div>
@@ -23,3 +25,4 @@
 ### :octocat: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samura-io&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### 
