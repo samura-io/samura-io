@@ -12,6 +12,7 @@ telegram:
   <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg' title="HTML5" alt="HTML5" width="40" height="40"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg' title="CSS3" alt="CSS3" width="40" height="40"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' title="JS" alt="JS" width="40" height="40"/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' title="TS" alt="JS" width="40" height="40"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' title="React" alt="React" width="40" height="40"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' title="Redux" alt="Redux" width="40" height="40"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' title="MongoDB" alt="MongoDB" width="40" height="40"/>
