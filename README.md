@@ -1,12 +1,14 @@
-### <img src='https://cdn3.iconfinder.com/data/icons/japan-23/64/Samurai-cultures-traditional-warrior-japan-512.png' width="40" height="40"/>   Никита, 25лет, г. Тамбов.
+### <img src='https://cdn3.iconfinder.com/data/icons/japan-23/64/Samurai-cultures-traditional-warrior-japan-512.png' width="40" height="40"/>   Никита, 25лет, г. Тамбов, Frontend-разработчик. ```(Ищу работу)```
+
+
   
-### <img src='https://cdn0.iconfinder.com/data/icons/religion-in-the-world/512/06-512.png' width="40" height="40"/>   Contacts :
+### <img src='https://cdn0.iconfinder.com/data/icons/religion-in-the-world/512/06-512.png' width="40" height="40"/>   Контакты:
 email:
 [NTL5TIA@gmail.com](NTL5TIA@gmail.com) <br>
 telegram:
 [@AleksankinN](https://t.me/AleksankinN)
 
-### <img src='https://cdn0.iconfinder.com/data/icons/japan-fill-outline/512/Japanese-katana-swords-traditional-512.png' width="40" height="40"/> Languages and Tools :
+### <img src='https://cdn0.iconfinder.com/data/icons/japan-fill-outline/512/Japanese-katana-swords-traditional-512.png' width="40" height="40"/> Навыки:
 <div>
   <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg' title="HTML5" alt="HTML5" width="40" height="40"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg' title="CSS3" alt="CSS3" width="40" height="40"/>
@@ -22,7 +24,7 @@ telegram:
   <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg' title="mySQL" alt="mySQL" width="40" height="40"/>
 </div>
 
-### <img src='https://cdn3.iconfinder.com/data/icons/samurai-3/504/banner-samurai-flag-label-warfare-512.png' width="40" height="40"/> My Stats :
+### <img src='https://cdn3.iconfinder.com/data/icons/samurai-3/504/banner-samurai-flag-label-warfare-512.png' width="40" height="40"/> Статистика:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samura-io&layout=compact&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
