@@ -1,4 +1,4 @@
-### <img src='https://cdn3.iconfinder.com/data/icons/japan-23/64/Samurai-cultures-traditional-warrior-japan-512.png' width="40" height="40"/>   Никита, 25лет, г. Тамбов, Frontend-разработчик. ```(Ищу работу)```
+### <img src='https://cdn3.iconfinder.com/data/icons/japan-23/64/Samurai-cultures-traditional-warrior-japan-512.png' width="40" height="40"/>   Никита, 25лет, г. Тамбов, Frontend-разработчик.
 
 
   
