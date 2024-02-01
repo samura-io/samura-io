@@ -6,7 +6,9 @@
 email:
 [NTL5TIA@gmail.com](NTL5TIA@gmail.com) <br>
 telegram:
-[@AleksankinN](https://t.me/AleksankinN)
+[@AleksankinN](https://t.me/AleksankinN) <br>
+GitLab:
+[samura-io](https://gitlab.devgroup.tech/samura-io)
 
 ### <img src='https://cdn0.iconfinder.com/data/icons/japan-fill-outline/512/Japanese-katana-swords-traditional-512.png' width="40" height="40"/> Навыки:
 <div>
